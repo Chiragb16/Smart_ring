@@ -12,15 +12,8 @@ Rechargeable or coin-cell battery-powered design (CR2032 support)
 
 Power Management
 Auto-sleep functionality for low power usage
-On-demand sensor activation using PMOS control
 Optimized for operation with CR2032 battery (~3V)
 Deep-sleep current < 10 µA (typical)
-
-How to Use
-Flash the firmware to the ESP32-C3 using USB-UART.
-Power the ring using 3.3V supply or CR2032 cell.
-Pair the ring with a smartphone app via BLE.
-Observe real-time vitals and activity data.
 
 Applications
 Continuous health monitoring
